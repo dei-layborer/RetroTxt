@@ -4,6 +4,8 @@
 
 # RetroTxt
 
+**NOTE:** This is a fork of [the original](https://github.com/bengarrett/RetroTxt) created by Ben Garrett.  My fork is for the purposes of adding some QoL features I'd like to the **manifest v2** version that is used by Firefox.
+
 Turn pieces of ANSI, ASCII, and NFO documents into HTML. RetroTxt is the browser Extension that takes legacy and plain text files and stylizes them into a more acceptable, valid format to view or copy from a web browser tab.
 
 #### View ANSI, ASCII, NFO, Shift JIS text art as HTML
